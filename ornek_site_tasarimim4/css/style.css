@@ -1,0 +1,328 @@
+body {
+	background-color: #fff;
+	color: #777;
+	font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+p {
+	line-height: 20px;
+	margin-bottom: 20px;
+}
+
+h1 {
+	font-family: 'Crete Round', serif;
+	font-weight: bold;
+	color: #444;
+	font-size: 45px;
+	margin-bottom: 20px;
+}
+
+h2 {
+	font-weight: 300;
+	color: #444;
+	font-size: 55px;
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+h3 {
+	font-size: 30px;
+	color: #444;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+h4 {
+	font-size: 24px;
+	color: #444;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+
+h5 {
+	font-size: 15px;
+	color: #444;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+ol, ul {
+	list-style: none;
+    margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+	color: #444;
+}
+
+a:hover {
+	color: #02b8dd;
+}
+
+strong {
+	font-weight: bold;
+}
+
+small {
+	font-size: 13px;
+	color: #777;
+	font-style: italic;
+}
+
+.clear {
+	clear: both;
+}
+
+.wrapper {
+	margin: 0 auto;
+	padding: 0 10px;
+	width: 70%;
+}
+#icerik1{
+    height: auto;
+    padding-top: 1px;
+    background:  url('../images/resim1.jpg') no-repeat center;
+    justify-content:center;
+    align-items:center;
+    width:90%;
+    height:700px;
+    margin:auto;
+    background-position:center;
+    background-size:cover;
+	opacity:0.9;
+}
+#icerik1 div{
+	
+    padding-top: 1px;
+    background:  #1a75ff no-repeat ;
+    justify-content:center;
+    align-items:center;
+    width:30%;
+    height:700px;
+    margin:auto;
+    background-position:center;
+    margin-left:0px;
+	opacity:0.8;
+	color:#fff;
+}
+#icerik1 div h6 {
+	color:#fff;
+	margin:160px 0 0 115px;
+	
+}
+#icerik1 div h3 {
+	color:#fff;
+	
+}
+#icerik1 div small  {
+	color:#fff;
+	margin-left:115px;
+	
+	
+}
+#icerik2{
+    height: auto;
+    padding-top: 1px;
+    background:  url('../images/resim2.png') no-repeat ;
+    justify-content:center;
+    align-items:center;
+    width:600px;
+    height:550px;
+    margin-left:265px;
+	margin-top:20px;
+    background-position:center;
+    background-size:cover;
+	
+}
+#icerik3{
+	height: auto;
+    padding-top: 1px;
+    background: #fff no-repeat ;
+    justify-content:center;
+    align-items:center;
+    width:480px;
+    height:300px;
+    margin-left:1000px;
+	margin-top:-360px;
+    background-position:center;
+    background-size:cover;
+	
+}
+.button-1{
+	display: block;
+    text-align: center;
+    background:  url('../images/resim3.png') no-repeat ;
+    border-radius: 20px;
+    color: black;
+    width: 480px;
+    height: 160px;
+    font-size: 20px;
+    line-height: 50px;
+    margin-left:0px;
+    margin-top:0px;
+	background-position:center;
+    background-size:cover;
+}
+#icerik4{
+    height: auto;
+    padding-top: 1px;
+    background:   #002b80 no-repeat center;
+    justify-content:center;
+    align-items:center;
+    width:1700px;
+    height:900px;
+    margin:auto;
+	margin-top:90px;
+    background-position:center;
+    background-size:cover;
+	color:#fff;
+}
+#icerik4 div{
+    padding-top: 1px;
+    background:  #fff no-repeat center;
+    justify-content:center;
+    align-items:center;
+    width:100%;
+    height:170px;
+    margin:auto;
+	margin-top:70px;
+    background-position:center;
+    background-size:cover;
+	color:black;
+
+	
+}
+#icerik4 h4{
+	margin-left:250px;
+	margin-top:40px;
+	
+}
+#icerik4 p{
+	margin-left:250px;
+	
+}
+#icerik4 div p{
+	margin-left:20px;
+	
+}
+#icerik4 div h5{
+	margin-left:20px;
+}
+#besinci-icerik{
+    height: auto;
+    padding-top: 1px;
+    background:    url('../images/resim4.png') no-repeat center;
+    justify-content:center;
+    align-items:center;
+    width:700px;
+    height:300px;
+    margin:auto;
+	margin-top:90px;
+    background-position:center;
+    background-size:cover;
+	color:#fff;
+}
+#besinci-icerik h4{
+	margin-top:-58px;
+	margin-left:225px;
+}
+#altıncı-icerik{
+    height: auto;
+    padding-top: 1px;
+    background:    url('../images/resim5.png') no-repeat center;
+    justify-content:center;
+    align-items:center;
+    width:50%;
+    height:300px;
+    margin:auto;
+	margin-top:90px;
+    background-position:center;
+    background-size:cover;
+	color:#fff;
+}
+#altıncı-icerik h4{
+	margin-top:-50px;
+	margin-left:285px;
+}
+#yedinci-icerik{
+    height: auto;
+    padding-top: 1px;
+    background:  #002b80   no-repeat center;
+    justify-content:center;
+    align-items:center;
+    width:70%;
+    height:130px;
+    margin:auto;
+	margin-top:90px;
+    background-position:center;
+    background-size:cover;
+	color:#fff;
+}
+#yedinci-icerik h4{
+	margin-left:240px;
+	margin-top:48px;
+	color:#fff;
+	
+}
+.button-2{
+	display: block;
+    text-align: center;
+    background: #00bfbf no-repeat ;
+    border-radius: 4px;
+    color: #fff;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    margin-left:640px;
+    margin-top:-60px;
+	background-position:center;
+    background-size:cover;
+}
+#sekizinci-icerik{
+    height: auto;
+    padding-top: 1px;
+    background: url('../images/resim6.png')   no-repeat center;
+    justify-content:center;
+    align-items:center;
+    width:70%;
+    height:200px;
+    margin:auto;
+	margin-top:50px;
+    background-position:center;
+    background-size:cover;
+	color:black;
+}
+#sekizinci-icerik h4{
+	margin-left:400px;
+	margin-top:-30px;
+}
+#sekizinci-icerik p{
+	margin-left:358px;
+	
+}
+#dokuzuncu-icerik{
+    height: auto;
+    padding:30px;
+    background: #fff   no-repeat center;
+    justify-content:center;
+    align-items:center;
+    width:1000px;
+    height:200px;
+    margin:auto;
+	margin-top:50px;
+    background-position:center;
+    background-size:cover;
+	color:black;
+}
+#input[type=text]{
+	padding-left:10px;
+	margin:8px 0;
+	
+}

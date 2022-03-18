@@ -1,0 +1,254 @@
+body{
+	margin:0;
+}
+.icerik1{
+	width:100%;
+	height:100%;
+	background-image:url(img/kalem.jpg);
+	background-repeat:no-repeat;
+}
+.yazi1{
+	text-align:center;
+	position:relative;
+	top:50%;
+}
+.yazi1 p{
+	font:bold 80px arial;
+}
+.yazi1 button{
+	color:white;
+}
+.button1{
+	width:180px;
+	background:#1d809f;
+	border-color:#1d809f;
+	padding:20px;
+	border-radius:5px;
+	
+}
+.icerik2{
+	height:400px;
+}
+.yazi2{
+	text-align:center;
+	position:relative;
+	top:20%;
+}
+
+.yazi2 p{
+	font-size: 1.20rem;
+	font-weight:100;
+}
+.yazi2 button{
+	color:white;
+}
+.button2{
+	width:180px;
+	background:black;
+	padding:20px;
+	border-radius:5px;
+	border-color:black;
+}
+.icerik3{
+	height:530px;
+	background:#1d809f;
+    padding-top: 1px;
+    background:#1d809f no-repeat center;
+    justify-content:center;
+    align-items:center;
+    margin:auto;
+    background-position:center;
+    background-size:cover;
+    padding-left:650px; 
+    padding-right:180px;
+    text-align:center;
+}
+.ortala1{
+	font-size:30px;
+	position:relative;
+	right:230px;
+}
+#features ul {
+    margin-top:40px;
+    margin-left:-70px;
+    
+}
+#features ul li {
+    width: 150px;
+    padding-top: 80px;
+    float: left;
+    margin-right: 50px;
+    text-align: center;
+    
+}
+#features ul li h5{
+	color:white;
+	margin-top:60px;
+}
+#features ul li p{
+	color:white;
+	margin-top:35px;
+}
+#features ul li.feature-1 {
+    background: url(images/icon-1.png) no-repeat top center;
+    border-radius:60px;
+    height:50px;
+    width:130px;
+    background-size:cover;
+}
+#features ul li.feature-2 {
+    background: url(images/icon-2.jpg) no-repeat top center;
+    border-radius:60px;
+    height:50px;
+    width:130px;
+    background-size:cover;
+
+}
+#features ul li.feature-3 {
+    background: url(images/icon-3.png) no-repeat top center;
+    border-radius:65px;
+    height:50px;
+    width:130px;
+    background-size:cover;
+}
+#features ul li.feature-4 {
+    background: url(images/icon-4.png) no-repeat top center;
+    border-radius:65px;
+    height:50px;
+    width:130px;
+    background-size:cover;
+}
+.icerik4{
+	height:700px;
+	background-image:url(img/makas.jpg);
+	background-repeat:no-repeat;
+	
+    padding-top: 1px;
+    justify-content:center;
+    align-items:center;
+    margin:auto;
+    background-position:center;
+    background-size:cover;
+
+}
+.icerik4 h2 {
+    color: black;
+	font-size:50px;
+	margin-top:200px;
+    margin-left:800px;
+}
+.icerik4 p {
+    color: black;
+	font-size:50px;
+    margin-left:830px;
+}
+.icerik4 a {
+    color: white;
+	font-size:20px;
+    margin-left:870px;
+}
+.button3{
+	width:180px;
+	background:#1d809f;
+	padding:20px;
+	border-radius:5px;
+	border-color:black;
+	
+}
+.icerik5{
+	height:1150px;
+}
+.icerik5 p{
+	color:#ffc125;
+}
+.icerik5 h2{
+	font-size:50px;
+}
+.yazi3{
+	position:relative;
+	text-align:center;
+	top:60px;
+}
+.icerik5sol{
+	height:50%;
+	display:flex;
+	
+}
+.resim1{
+	position:relative;
+	top:20%;
+	left:10%;
+}
+.resim2{
+	position:relative;
+	top:20%;
+	left:10%;
+}
+.icerik5sag{
+	height:50%;
+	display:flex;
+	margin-bottom:100px;
+}
+.resim3{
+	position:relative;
+	left:10%;
+}
+.resim4{
+	position:relative;
+	left:10%;
+}
+.icerik6{
+	margin-top:50px;
+	height:350px;
+	background:#1d809f;
+}
+.icerik6 p{
+	text-align:center;
+	font-size:30px;
+	color:white;
+	position:relative;
+	top:100px;
+}
+.butonyeri1{
+	width:600px;
+	text-align:center;
+	position:relative;
+	top:120px;
+	display:flex;
+	left:750px;
+}
+.button4{
+	width:120px;
+	background:white;
+	padding:20px;
+	border-radius:5px;
+	border-color:white;
+}
+.button4 a{
+	color:black;
+	text-decoration:none;
+}
+.button5{
+	width:150px;
+	background:#343a40;
+	padding:20px;
+	border-radius:5px;
+	border-color:black;
+	position:relative;
+	left:30px;
+}
+.button5 a{
+	text-decoration:none;
+	color:white;
+}
+.icerik7{
+	height:500px;
+	background-image:url(img/harita.png);
+}
+.icerik8{
+	text-align:center;
+	height:300px;
+}
+.yazi4{
+	margin-top:100px;
+}

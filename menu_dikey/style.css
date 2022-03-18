@@ -1,0 +1,13 @@
+.menu{width:250px;}
+.menu ul{list-style:none;}
+.menu ul li a{
+		background-color:black;
+		color:#fff;
+		font:14px verdana, arial;
+		display:block;
+		padding:20px 0px;
+		text-decoration:none;
+		text-align:center;
+}
+#anasayfa{border-left:3px solid #CF9E1E;}
+#anasayfa:hover{background:#CF9E1E;}

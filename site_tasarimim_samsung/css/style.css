@@ -1,0 +1,419 @@
+body {
+	background-color: #fff;
+	color: #777;
+	font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+p {
+	line-height: 20px;
+	margin-bottom: 20px;
+}
+
+h1 {
+	font-family: 'Crete Round', serif;
+	font-weight: bold;
+	color: #444;
+	font-size: 45px;
+	margin-bottom: 20px;
+}
+
+h2 {
+	font-weight: 300;
+	color: #444;
+	font-size: 55px;
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+h3 {
+	font-size: 30px;
+	color: #444;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+h4 {
+	font-size: 24px;
+	color: #444;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+
+h5 {
+	font-size: 15px;
+	color: #444;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+ol, ul {
+	list-style: none;
+    margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+	color: #444;
+}
+
+a:hover {
+	color: #02b8dd;
+}
+
+strong {
+	font-weight: bold;
+}
+
+small {
+	font-size: 13px;
+	color: #777;
+	font-style: italic;
+}
+
+.clear {
+	clear: both;
+}
+
+.wrapper {
+	margin: 0 auto;
+	padding: 0 10px;
+	width: 940px;
+}
+
+header {
+    height:60px;
+    background-color:#fff;
+    margin-left:auto;
+    width:1200px ;
+    
+}
+
+header h4 {
+    float: center;
+    margin-top: 20px;
+    
+    color:#0066cc;
+}
+
+header h4 .color {
+    color: #02b8dd;
+}
+
+#sol{
+    float: left; 
+    margin-left:-470px;
+    margin-top:-40px;
+}
+#sag {
+    float: right ;
+    margin-top:-87px;
+    margin-right:600px;
+}
+
+header nav ul li {
+    float: left;
+    display: inline-block;
+    margin-top: 50px;
+    
+}
+
+header nav ul li a {
+    color: #444;
+    font-weight: bold;
+    display: block;
+    margin-right: 20px;
+    font-size:10px;
+}
+#icerik1{
+    height: auto;
+    padding-top: 1px;
+    background:  url('../images/resim1.png') no-repeat center;
+    justify-content:center;
+    align-items:center;
+    width:80%;
+    height:500px;
+    margin:auto;
+    background-position:center;
+    background-size:cover;
+   
+
+}
+#icerik1 h2{
+	color:black;
+	margin-left:-770px;
+	margin-top:200px;
+
+}
+#icerik1 h5{
+	color:black;
+	margin-left:60px;
+}
+.button-1 {
+    display: block;
+    border:solid 1px;
+    text-align: center;
+    background: #fff;
+    border-radius: 20px;
+    color: black;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    margin-left:320px;
+    margin-top:-50px;
+}
+.button-2 {
+    display: block;
+    
+    text-align: center;
+    background: #fff;
+    border-radius: 20px;
+    color: black;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    margin-left:0px;
+    margin-top:50px;
+}
+#icerik2{
+    height: auto;
+    padding-top: 1px;
+    background:  url('../images/resim2.png') no-repeat center;
+    justify-content:center;
+    align-items:center;
+    width:80%;
+    height:500px;
+    margin:auto;
+    background-position:center;
+    background-size:cover;
+   
+
+}#icerik2 h2{
+	color:black;
+	margin-left:500px;
+	margin-top:160px;
+
+}
+#icerik2 h5{
+	color:black;
+	margin-left:670px;
+}
+.button-4 {
+    display: block;
+    border:solid 1px;
+    text-align: center;
+    background: #F0F0F0;
+    border-radius: 20px;
+    color: black;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    margin-left:320px;
+    margin-top:-50px;
+}
+.button-3 {
+    display: block;
+    border:solid 1px;
+    text-align: center;
+    background: #F0F0F0;
+    border-radius: 20px;
+    color: black;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    margin-left:0px;
+    margin-top:50px;
+}
+#icerik3{
+    height: auto;
+    padding-top: 1px;
+    background:  url('../images/resim3.png') no-repeat center;
+    justify-content:center;
+    align-items:center;
+    width:80%;
+    height:500px;
+    margin:auto;
+    background-position:center;
+    background-size:cover;
+   
+
+}
+#icerik3 h2{
+	color:black;
+	margin-left:-980px;
+	margin-top:90px;
+
+}
+#icerik3 h5{
+	color:black;
+	margin-left:30px;
+}
+.button-5 {
+    display: block;
+    border:solid 1px;
+    text-align: center;
+    background: #fff;
+    border-radius: 20px;
+    color: black;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    margin-left:0px;
+    margin-top:40px;
+}
+.button-6 {
+    display: block;
+    border:solid 1px;
+    text-align: center;
+    background: #fff;
+    border-radius: 20px;
+    color: black;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    margin-left:0px;
+    margin-top:30px;
+}
+#icerik4{
+    height: auto;
+    padding-top: 1px;
+    background:  url('../images/resim4.png') no-repeat center;
+    justify-content:center;
+    align-items:center;
+    width:80%;
+    height:500px;
+    margin:auto;
+    background-position:center;
+    background-size:cover;
+   
+
+}
+#icerik4 h2{
+	color:black;
+	margin-left:400px;
+	margin-top:50px;
+	padding-top:-100px;
+
+}
+#icerik4 h5{
+	color:black;
+	margin-left:600px;
+}
+.button-7 {
+    display: block;
+    border:solid 1px;
+    text-align: center;
+    background: #F0F0F0;
+    border-radius: 20px;
+    color: black;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    margin-left:0px;
+    margin-top:20px;
+}
+#icerik5{
+    height: auto;
+    padding-top: 1px;
+    background:  url('../images/resim5.png') no-repeat center;
+    justify-content:center;
+    align-items:center;
+    width:80%;
+    height:500px;
+    margin:auto;
+    background-position:center;
+    background-size:cover;
+   
+
+}
+#icerik5 h2{
+	color:black;
+	margin-left:-770px;
+	margin-top:130px;
+	padding-top:-100px;
+
+}
+.button-8 {
+    display: block;
+    border:solid 1px;
+    text-align: center;
+    background: #Fff;
+    border-radius: 20px;
+    color: black;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    margin-left:800px;
+    margin-top:20px;
+}
+#icerik6{
+    height: auto;
+    padding-top: 1px;
+    background:  #F0F0F0  no-repeat center;
+    justify-content:center;
+    align-items:center;
+    width:80%;
+    height:300px;
+    margin:auto;
+    background-position:center;
+    background-size:cover;
+   
+
+}
+#icerik6 ul {
+    float: left;
+    display: inline-block;
+    margin-top: -20px;
+    padding:50px;
+
+}
+#icerik6 ul li{
+	padding:5px;
+}
+#ortalama{
+    padding-top: 20px;
+	margin:10px;
+	margin-left:30px;
+
+}
+#icerik7{
+
+    height: auto;
+    padding-top: 1px;
+    background:  black  no-repeat center;
+    justify-content:center;
+    align-items:center;
+    width:80%;
+    height:150px;
+    margin:auto;
+    background-position:center;
+    background-size:cover;
+    opacity:0.9;
+}
+#icerik7 ul li{
+    float: left;
+    display: inline-block;
+    margin-top:25px;	
+    margin-left:-130px;
+    margin-right:160px;
+   
+
+}
+#icerik7 p{
+	color:#fff;
+	margin-top:60px;
+    	margin-right:250px;
+ 	margin-left:140px;
+}
